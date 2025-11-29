@@ -41,4 +41,5 @@ docker-compose up
 Note: first you should run Docker Desktop
 
 3. **Open**
-   Open http://localhost:8080 in your browser
+
+Open http://localhost:8080 in your browser
