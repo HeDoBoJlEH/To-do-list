@@ -38,4 +38,7 @@ go run app/cmd/main.go
 docker-compose up
 ```
 
+3. **Open**
+   Open http://localhost:8080 in your browser
+
 Note: you should run Docker Desktop
