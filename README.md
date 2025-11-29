@@ -21,7 +21,7 @@ Local to-do list api with web interface.
 
 ```bash
 git clone https://github.com/HeDoBoJlEH/To-do-list.git
-cd todo_list_api
+cd To-do-list
 ```
 
 2. **Run**
